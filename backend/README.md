@@ -10,7 +10,12 @@ Basic Nodejs server which will request S3 to sign the url and will send the file
 
 ### Installation
 
-Create your own `.env` and add your S3 credentials
+Create your own `.env` and add your S3 credentials (fill the list) :
+AWSAccessKeyId=your_aws_key
+AWSSecretKey=your_aws_secret_key
+bucket=your_bucket_name
+region=your_code_region(example:us-east-1)
+from_email=your_sender_email
 
 ```sh
 $ npm install
