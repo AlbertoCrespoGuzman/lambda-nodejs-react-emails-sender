@@ -16,7 +16,7 @@ Create your own `.env` and add your S3 credentials
 $ npm install
 $ npm start
 ```
-It works in `localhost:3000`
+It works in `localhost:3001`
 
 
 
