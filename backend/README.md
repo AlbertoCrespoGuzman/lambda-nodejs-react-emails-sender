@@ -21,7 +21,7 @@ from_email=your_sender_email
 $ npm install
 $ npm start
 ```
-It works in `localhost:3000`
+It works in `localhost:3001`
 
 
 
